@@ -1,0 +1,5 @@
+
+##  The first attempt at a full sensor program. the aim of which is to
+## Take info from the .yaml file, use that info to turn the stepper motor
+## gather the specified number of readings, then print them to the proper JSON
+## File. 
